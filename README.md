@@ -1,4 +1,12 @@
 # CUPP - Common User Passwords Profiler
+ __  __  ___  _   _ ____ ___ _   _ 
+|  \/  |/ _ \| | | / ___|_ _| \ | |
+| |\/| | | | | |_| \___ \| ||  \| |
+| |  | | |_| |  _  |___) | || |\  |
+|_|  |_|\___/|_| |_|____/___|_| \_|
+                                   
+
+
 
 [![Build Status](https://travis-ci.org/Mebus/cupp.svg?branch=master)](https://travis-ci.org/Mebus/cupp)
 [![Coverage Status](https://coveralls.io/repos/github/Mebus/cupp/badge.svg)](https://coveralls.io/github/Mebus/cupp)
